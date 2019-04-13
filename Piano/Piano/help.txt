@@ -1,0 +1,3 @@
+this is a help file
+press enter to pause/play the rythm
+press escape to safely exit the program
